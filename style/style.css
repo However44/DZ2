@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-color: #fff;
+margin: 0 auto;
+padding: 0;
+background-image: url(../images/backhome.jpeg);	
+	background-repeat: no-repeat;
+}
+
+/* Container */
+.head { 
+
+position: fixed;
+left: 0px;
+top: 0px;
+	max-width:100%;
+
+	
+}
